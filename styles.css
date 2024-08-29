@@ -1,0 +1,45 @@
+.container {
+  width: 70%;
+  margin: auto;
+  
+  text-align: center;
+}
+
+.dice {
+  text-align: center;
+  display: inline-block;
+
+
+}
+
+body {
+  
+  background-image: url(./images/backy2.jpg);
+}
+
+h1 {
+  margin: 30px;
+  font-family: 'Lobster', cursive;
+  text-shadow: 2px 0 #ac5695;
+  font-size: 8rem;
+  color: #9d2372;
+}
+
+p {
+  font-size: 2rem;
+  color: #615cea;
+  font-family:Georgia, 'Times New Roman', Times, serif;
+}
+
+img {
+  width: 80%;
+}
+
+footer {
+  margin-top: 5%;
+  color: #2d2b2b;
+  text-align: center;
+  font-family: 'Indie Flower', cursive;
+  font-weight: bold;
+
+}
